@@ -32,3 +32,8 @@ Anomaly Detection
 Recommender System
 
 For more information, please visit: https://class.coursera.org/ml/lecture/preview
+
+
+## License
+
+All Solutions licensed under MIT License. See LICENSE.txt for further details.
