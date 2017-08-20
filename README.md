@@ -10,8 +10,11 @@ Topics covered in the course:
 
 Linear Regression (one variable and multiple variables)
 Logistic Regression
+
 Regularization
+
 Neural networks
+
 Support Vector Machine
 Clustering
 Dimensionality Reduction
